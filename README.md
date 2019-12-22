@@ -7,3 +7,5 @@ Debes descargar node_modules. el framework de Bootstrap!
 
 
 Gracias por compartir código conmigo!
+
+npm run start!
